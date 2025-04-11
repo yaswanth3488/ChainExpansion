@@ -1,5 +1,5 @@
 
-![Alt text for the image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Findustry%2Fcons-products%2Ffood%2Fdepresso-cafs-go-through-the-grinder%2Farticleshow%2F117063927.cms&psig=AOvVaw0kKL68j92FilZQ9hp3M0NH&ust=1744444285169000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjDr8S_z4wDFQAAAAAdAAAAABAE)
+![Bg_image](https://github.com/yaswanth3488/ChainExpansion/blob/main/Image.png)
 
 The Coffee Shop Expansion Project aims to identify optimal cities for coffee shop expansion based on a comprehensive analysis of sales performance, customer satisfaction, city rankings, and estimated rent. This project leverages data from various cities to provide actionable insights for potential growth in the coffee retail sector.
 
