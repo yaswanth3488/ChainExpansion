@@ -2,7 +2,7 @@
 ![Bg_image](https://github.com/yaswanth3488/ChainExpansion/blob/main/Image.png)
 This document analyzes sales performance, product popularity, customer segmentation, and city-wise performance to provide recommendations for the top three cities for coffee shop chain expansion. Key factors considered include total sales, customer satisfaction, city rank, and estimated rent. The analysis aims to guide strategic decisions for expanding the coffee shop chain to maximize profitability and customer satisfaction.
 ![image](https://github.com/user-attachments/assets/d2af7082-b5e6-48c3-bb50-5ec82816226e)
-
+[document link](https://github.com/yaswanth3488/ChainExpansion/blob/main/PDF%20VIEW-Coffee-Shop-Chain-Expansion.pdf)
 
 The Coffee Shop Expansion Project aims to identify optimal cities for coffee shop expansion based on a comprehensive analysis of sales performance, customer satisfaction, city rankings, and estimated rent. This project leverages data from various cities to provide actionable insights for potential growth in the coffee retail sector.
 
